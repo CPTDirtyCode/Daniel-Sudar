@@ -1,7 +1,7 @@
 # Hallo, ich bin Daniel 👋
 
 <p align="center">
-  <img src="images/profilbild.png" alt="Daniel" width="220">
+  <img src="images/banner.png" alt="Daniel" width="220">
 </p>
 
 ## 👨‍💻 Über mich
